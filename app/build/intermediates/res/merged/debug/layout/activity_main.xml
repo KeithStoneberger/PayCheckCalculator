@@ -1,0 +1,118 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/radial_background"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.visualstudio.jkstech.paycheckcalculator.MainActivity" >
+    
+    	<TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="46dp"
+        android:text="@string/total_Pay"
+        android:textColor="@color/whiteText" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="38dp"
+        android:text="@string/pay_rate"
+        android:textColor="@color/whiteText" />
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/enter_total_hours"
+        android:textColor="@color/whiteText" />
+
+    <Button
+        android:id="@+id/reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView3"
+        android:layout_alignEnd="@+id/textView1"
+        android:layout_below="@+id/textView3"
+        android:layout_marginTop="63dp"
+        android:text="@string/btn_Reset"
+        android:textColor="@color/whiteText"
+        android:textColorHint="@color/whiteText"
+        android:onClick="clearAll"
+         />
+
+    <Button
+        android:id="@+id/calculate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/reset"
+        android:layout_alignEnd="@+id/TextView01"
+        android:text="@string/btn_Calculate"
+        android:textColor="@color/whiteText"
+        android:textColorHint="@color/whiteText"
+        android:onClick="calculate"
+         />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/TextView01"
+        android:layout_below="@+id/TextView01"
+        android:layout_marginTop="42dp"
+        android:text="@string/hours_worked"
+        android:textColor="@color/whiteText" />
+
+    <EditText
+        android:id="@+id/hrsWrkd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView2"
+        android:layout_alignParentEnd="true"
+        android:layout_alignStart="@+id/calculate"
+        android:ems="10"
+        android:inputType="numberDecimal"
+        android:labelFor="@id/hrsWrkd"
+        android:textColor="@color/whiteText"
+        android:textColorHint="@color/whiteText" />
+        
+    <EditText
+        android:id="@+id/payRate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_alignEnd="@+id/hrsWrkd"
+        android:layout_alignStart="@+id/hrsWrkd"
+        android:ems="10"
+        android:inputType="numberDecimal"
+        android:labelFor="@id/payRate"
+        android:textColor="@color/whiteText"
+        android:textColorHint="@color/whiteText" />
+
+    <EditText
+        android:id="@+id/totPay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/reset"
+        android:layout_alignEnd="@+id/hrsWrkd"
+        android:layout_alignParentEnd="true"
+        android:layout_alignStart="@+id/payRate"
+        android:ems="10"
+        android:enabled="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:inputType="numberDecimal"
+        android:labelFor="@id/totPay"
+        android:textColor="@color/whiteText"
+        android:textColorHint="@color/whiteText" />
+
+</RelativeLayout>

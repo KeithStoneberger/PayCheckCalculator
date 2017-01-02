@@ -1,0 +1,334 @@
+[
+    {
+        "outputFile": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 43,
+                        "endOffset": 724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 57,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 55,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 52,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 52,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 56,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 56,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 51,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 51,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 51,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 729,
+                        "endColumn": 51,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 43,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 43,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 50,
+                    "endOffset": 517
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 50,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 522,
+                    "endColumn": 118,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 118,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endColumn": 53,
+                    "endOffset": 690
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 53,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 695,
+                    "endColumn": 45,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 45,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endColumn": 62,
+                    "endOffset": 799
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 62,
+                        "endOffset": 724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 804,
+                    "endColumn": 67,
+                    "endOffset": 867
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 67,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 872,
+                    "endColumn": 62,
+                    "endOffset": 930
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 62,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 935,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1221
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1226,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1381
+                },
+                "from": {
+                    "file": "C:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

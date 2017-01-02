@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Keith\Documents\Designs\Android\Projects\PayCheckCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Keith\Documents\Designs\Android\Projects\PayCheckCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_7f135db6c007742e9529514a5a546b60f9f702ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Keith\Documents\Designs\Android\Projects\PayCheckCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38497168399d81140734e476c9dd51c1d043de7c">
+        <dex dex="C:\Users\Keith\Documents\Designs\Android\Projects\PayCheckCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_51409498b3ced310be7c89e0a39c49c50b7e66a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Keith\Documents\Designs\Android\Projects\PayCheckCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Keith\Documents\Designs\Android\Projects\PayCheckCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_7528f08e8baf69dc06c4e84fe36599a41baf89a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Keith\Documents\Designs\Android\Projects\PayCheckCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_2b7ea7fc0fb07c95cac166f11ef1f0b1e42189b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Keith\Documents\Designs\Android\Projects\PayCheckCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="555f607bd5c6425a976b7bc6226308bfe572b37a">
+        <dex dex="C:\Users\Keith\Documents\Designs\Android\Projects\PayCheckCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6974756b198d032b90746cf0070088fa15582978\classes.dex" />
+    </item>
+
+</items>

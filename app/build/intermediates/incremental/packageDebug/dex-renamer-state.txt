@@ -1,0 +1,7 @@
+#Sun Jan 01 21:56:10 EST 2017
+base.0=C\:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_51409498b3ced310be7c89e0a39c49c50b7e66a5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6974756b198d032b90746cf0070088fa15582978\\classes.dex
+base.1=C\:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6974756b198d032b90746cf0070088fa15582978
+file.0=C\:\\Users\\Keith\\Documents\\Designs\\Android\\Projects\\PayCheckCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_51409498b3ced310be7c89e0a39c49c50b7e66a5\\classes.dex
