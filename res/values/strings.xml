@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PayCheck Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hours_worked">Hours Worked</string>
+    <string name="pay_rate">Pay Rate</string>
+    <string name="total_Pay">Total Pay (before taxes)</string>
+    <string name="enter_total_hours">Just Enter the total hours worked. Overtime is automatically calculated.</string>
+    <string name="btn_Calculate">Calculate</string>
+    <string name="btn_Reset">Reset</string>
+    <string name="title_activity_main">Paycheck Calculator</string>
+    <string name="btn_grossPay">Gross Pay</string>
+    <string name="title_activity_gross_pay">Gross Pay</string>
+    <string name="btn_Gross_Pay">Gross Pay</string>
+
+</resources>
