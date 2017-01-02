@@ -37,20 +37,6 @@
         android:textColor="@color/whiteText" />
 
     <Button
-        android:id="@+id/reset"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignStart="@+id/textView3"
-        android:layout_alignEnd="@+id/textView1"
-        android:layout_below="@+id/textView3"
-        android:layout_marginTop="63dp"
-        android:text="@string/btn_Reset"
-        android:textColor="@color/whiteText"
-        android:textColorHint="@color/whiteText"
-        android:onClick="clearAll"
-         />
-
-    <Button
         android:id="@+id/calculate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -114,5 +100,17 @@
         android:labelFor="@id/totPay"
         android:textColor="@color/whiteText"
         android:textColorHint="@color/whiteText" />
+
+    <Button
+        android:id="@+id/reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="64dp"
+        android:text="@string/btn_Reset"
+        android:textColor="@color/whiteText"
+        android:textColorHint="@color/whiteText"
+        android:onClick="clearAll"
+        android:layout_below="@+id/textView3"
+        android:layout_alignParentStart="true" />
 
 </RelativeLayout>
